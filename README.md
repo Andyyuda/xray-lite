@@ -20,7 +20,7 @@
 </p>
 
 # SILAKAN WA SAYA UNTUK DAFTAR IP NYA
-# WA.ME/6282131861788
+# WA.ME/6282131861788 Andyyuda
 # t.me matamata233
-# WA.ME/6283821682527
+# WA.ME/6283821682527 Dragon Emperor
 #t.me dragon_emperor999
