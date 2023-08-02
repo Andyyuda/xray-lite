@@ -1,6 +1,6 @@
 # xray-lite
 
-# sc muli port free dari KLMPK GROUP
+# sc mulTi port free dari KLMPK GROUP
 # LINK INSTALL
 
 <p align="center">
