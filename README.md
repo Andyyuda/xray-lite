@@ -26,5 +26,5 @@
 #t.me dragon_emperor999
 
 # buy saya coffe
-![logo](https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/sc1.jpg
+![logo](https://raw.githubusercontent.com/Andyyuda/xray-lite/main/IMG-20230728-WA0084.jpg
 )
