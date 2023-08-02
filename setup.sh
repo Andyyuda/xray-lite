@@ -3,7 +3,6 @@ dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Dat
 biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
 #########################
 
-REPO="https://raw.githubusercontent.com/Vlukss/scriptvps/main/"
 CDN="https://raw.githubusercontent.com/AndyyudaVPN/multi-ws-1/main/ssh"
 
 ###
